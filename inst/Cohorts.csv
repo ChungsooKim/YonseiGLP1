@@ -1,0 +1,8 @@
+webApiCohortId,cohortId,cohortName
+1594,1594,[CKim] dulaglutide first user for HIRA CDM Chan v0.1 target
+1601,1601,[CKim] sglt2 inh first user for HIRA CDM Chan v0.1 comparator
+1605,1605,[CKim] suicidal event for HIRA CDM Chan v0.1 outcome
+1603,1603,[CKim] dementia for HIRA CDM Chan v0.1 outcome
+1606,1606,[CKim] All cause mortality for HIRA CDM Chan v0.1 outcome
+1607,1607,[CKim] Any cancer for HIRA CDM Chan v0.1 outcome
+1602,1602,[CKim] dpp4 inh first user for HIRA CDM Chan v0.1 comparator
